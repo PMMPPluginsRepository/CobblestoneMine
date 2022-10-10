@@ -1,0 +1,7 @@
+name: CobblestoneMine
+main: skh6075\CobblestoneMine\Loader
+author: skh6075
+version: 1.0.0
+api: 4.0.0
+
+src-namespace-prefix: skh6075\CobblestoneMine
